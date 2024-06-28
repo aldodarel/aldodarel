@@ -17,7 +17,7 @@ My name is Aldo Darel. I am a Software Engineer 💻 especially in the Web Devel
    telegram username: @aldodarel2020
 
 ⚡Fun fact :  
-- My hobbies include music🎧, enjoying nature🍃, cycling🚴, coding🧑‍💻, badminton🏸, traveling✈️, game🎮, and anime⛩️.
+- My hobbies include music🎧, enjoying nature🍃, cycling🚴, ui/ux design🧑‍💻, badminton🏸, traveling✈️, game🎮, and anime⛩️.
 - I am quite enthusiastic about cybersecurity🛡️ and want to delve deeper into it.
 - Life in the dormitory🏢 was quite boring for 4 years but it's good for self-discipline. 
 - I have more friends on social media📲 than in real life.
