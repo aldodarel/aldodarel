@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Aldo Darel
 
----
-
 👨‍💻 Aspiring **Software Engineer** with a strong focus on **UI/UX Design**, and growing experience in **Web Development** and **Mobile Development**. I am passionate about using technology to build real-world solutions and someday launch a **startup** in Indonesia’s tech ecosystem.
 
 🎓 **Applied Bachelor of Software Engineering Technology**  
