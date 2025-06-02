@@ -13,18 +13,20 @@
 
 ## 🚀 What I'm Working On
 
-- Developing full-stack web and mobile applications  
-- Enhancing my skills in front-end and back-end frameworks  
-- Preparing for startup development through project-based learning  
-- Learning industry best practices and contributing to team projects
+- Exploring advanced **UI/UX Design** techniques to create intuitive, user-centered experiences  
+- Practicing **wireframing**, **prototyping**, and building **design systems** using tools like Figma  
+- Learning how to apply **usability principles** and **accessibility standards** in digital products  
+- Supporting my designs by building functional **web** and **mobile applications**  
+- Developing full-stack apps as a complement to my UI/UX work, so I can turn designs into reality
 
 ---
 
 ## 💡 What I'm Looking For
 
-- Mentorship and collaboration with experienced software developers  
-- Real-world opportunities to contribute to open source or collaborative projects  
-- Support from communities like **Google** and **OpenAI** to solve development challenges (debugging, bug-hunting, error fixing, etc.)
+- Opportunities to collaborate with experienced **UI/UX designers** to deepen my design thinking and visual communication skills  
+- Mentorship to improve my understanding of **user research**, **design validation**, and **interaction design**  
+- Projects where I can contribute to both the **user interface design** and the **development side**, especially in early-stage product design  
+- Support from tech communities like **Google** and **OpenAI** to help solve challenges in building well-designed, user-friendly software  
 
 ---
 
