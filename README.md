@@ -1,29 +1,59 @@
-Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldodarel&theme=github-dark-blue&hide_border=true&border_radius=0&card_width=520&card_height=250)](https://git.io/streak-stats)
 
-My name is Aldo Darel. I am a Software Engineer 💻 especially in the Web Development field 🌐. 
+# 👋 Hi there, I'm Aldo Darel
 
- 🔭 I’m currently studying at Del Institute of Technology in North Sumatera taking Applied Bachelor of Software Engineering Technology from 2022-2026 🔥🔥
+🎓 **Applied Bachelor of Software Engineering Technology**  
+📍 *Institut Teknologi Del (2022–2026)*
 
- 🌱 I’m currently learning to develop web-based or mobile applications so that I can eventually build a business or startup in the IT field in Indonesia. 👨🏼‍💻🚀🚀
+---
 
- 👯 I’m looking to collaborate and learn many more things with expert software developers so that I can also gain more knowledge because there are quite a lot of new technologies emerging in this field
+👨‍💻 Aspiring **Software Engineer** with a strong focus on **UI/UX Design**, and growing experience in **Web Development** and **Mobile Development**. I am passionate about using technology to build real-world solutions and someday launch a **startup** in Indonesia’s tech ecosystem.
 
- 🤔 I’m looking for help with Google or OpenAI as my colleagues in overcoming difficulties such as understanding code🤔, troubleshooting errors😵‍💫, finding bugs🤯, and other tasks typical of a true developer ❤️‍🔥😎
+---
 
- 💬 Contact me on my social media to ask anything:
+## 🚀 What I'm Working On
 
-   ig: aldodarel2020
+- Developing full-stack web and mobile applications  
+- Enhancing my skills in front-end and back-end frameworks  
+- Preparing for startup development through project-based learning  
+- Learning industry best practices and contributing to team projects
 
-   telegram username: @aldodarel2020
+---
 
-⚡Fun fact :  
-- My hobbies include music🎧, enjoying nature🍃, cycling🚴, ui/ux design🧑‍💻, badminton🏸, traveling✈️, game🎮, and anime⛩️.
-- I am quite enthusiastic about cybersecurity🛡️ and want to delve deeper into it.
-- Life in the dormitory🏢 was quite boring for 4 years but it's good for self-discipline. 
-- I have more friends on social media📲 than in real life.
+## 💡 What I'm Looking For
 
- ✨ Motto : Make money to live better ✨
- THANK YOU!! ❤️❤️
+- Mentorship and collaboration with experienced software developers  
+- Real-world opportunities to contribute to open source or collaborative projects  
+- Support from communities like **Google** and **OpenAI** to solve development challenges (debugging, bug-hunting, error fixing, etc.)
+
+---
+
+## 💬 Connect with Me
+
+📩 **Gmail**: [darellaldo2004@gmail.com]
+📸 **Instagram**: [@aldodarel2020](https://instagram.com/aldodarel2020)
+
+Feel free to reach out or ask anything — always happy to connect!
+
+---
+
+## ⚡ Fun Facts
+
+- 🎧 Music | 🍃 Nature | 🚴 Cycling | 🧑‍💻 UI/UX Design  
+- 🏸 Badminton | ✈️ Traveling | 🎮 Gaming | ⛩️ Anime  
+- 🏢 Dorm life for 4 years? Tough, but great for building **self-discipline**  
+- 📲 I might have more friends online than in real life — classic developer vibes 😄
+
+---
+
+## ✨ Motto
+
+> **“Make money to live better.”**
+
+---
+
+Thanks for visiting my profile — have a great day! 🙌
+
 
 
 
